@@ -1,0 +1,39 @@
+body {
+  background: orange;
+}
+
+.destacado {
+color: blue
+  ;
+}
+.importante {
+  color: red
+    ;
+  }
+
+  .aviso {
+    padding: 0.5em;
+    border: 1px solid #98be10;
+    background: #f6feda;
+  }
+  
+  .error {
+    color: #930;
+    font-weight: bold;
+  }
+
+  #cuadrado {
+    color: green
+    ;
+  }
+ul:nth-of-type(1) {
+  list-style-type: disc;
+}
+
+ul:nth-of-type(2) {
+  list-style-type: circle;
+}
+
+ul:nth-of-type(3) {
+  list-style-type: square;
+}
